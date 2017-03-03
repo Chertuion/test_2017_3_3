@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/a"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="#00ff15"
+        android:gravity="center"
+        android:text="A"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/b"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@id/a"
+        android:layout_toRightOf="@id/a"
+        android:background="#00ff15"
+        android:gravity="center"
+        android:text="B"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/c"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@id/a"
+        android:layout_toRightOf="@id/b"
+        android:background="#00ff15"
+        android:gravity="center"
+        android:text="C"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/d"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@id/a"
+        android:layout_toLeftOf="@id/a"
+        android:background="#00ff15"
+        android:gravity="center"
+        android:text="D"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/e"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@id/d"
+        android:layout_toLeftOf="@id/a"
+        android:background="#00ff15"
+        android:gravity="center"
+
+        android:text="E"
+        android:textSize="50sp"
+
+        />
+
+    <TextView
+        android:id="@+id/f"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/a"
+        android:layout_toLeftOf="@id/a"
+        android:background="#00ff15"
+        android:gravity="center"
+
+        android:text="F"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/g"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/a"
+        android:layout_toLeftOf="@id/f"
+        android:background="#00ff15"
+        android:gravity="center"
+        android:text="G"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/h"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/a"
+        android:layout_toRightOf="@id/a"
+        android:background="#00ff15"
+        android:gravity="center"
+        android:text="H"
+
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/i"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/h"
+        android:layout_toRightOf="@id/a"
+        android:background="#00ff15"
+        android:gravity="center"
+        android:text="I"
+        android:textSize="50sp" />
+
+
+</RelativeLayout>

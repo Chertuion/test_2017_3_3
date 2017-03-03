@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2017_1_12/2017_1_12.iml" filepath="$PROJECT_DIR$/2017_1_12/2017_1_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2017_1_9.iml" filepath="$PROJECT_DIR$/2017_1_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Down_selecter/Down_selecter.iml" filepath="$PROJECT_DIR$/Down_selecter/Down_selecter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad_loop_1_26/ad_loop_1_26.iml" filepath="$PROJECT_DIR$/ad_loop_1_26/ad_loop_1_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_five/day_five.iml" filepath="$PROJECT_DIR$/day_five/day_five.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawerlayout/drawerlayout.iml" filepath="$PROJECT_DIR$/drawerlayout/drawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_test_one/fragment_test_one.iml" filepath="$PROJECT_DIR$/fragment_test_one/fragment_test_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclinttest/httpclinttest.iml" filepath="$PROJECT_DIR$/httpclinttest/httpclinttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshlistview/refreshlistview.iml" filepath="$PROJECT_DIR$/refreshlistview/refreshlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toggle/toggle.iml" filepath="$PROJECT_DIR$/toggle/toggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youkumenu_1_18/youkumenu_1_18.iml" filepath="$PROJECT_DIR$/youkumenu_1_18/youkumenu_1_18.iml" />
+    </modules>
+  </component>
+</project>

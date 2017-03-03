@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fragment_test_one</string>
+    <string name="title_activity_fragment_test_ad">fragment_test_ad</string>
+</resources>
